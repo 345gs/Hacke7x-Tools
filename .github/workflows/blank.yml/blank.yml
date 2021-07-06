@@ -1,0 +1,143 @@
+ red='\e[1;31m'
+green='\e[1;32m'
+blue='\e[1;34m'
+purple='\e[1;35m'
+cyan='\e[1;36m'
+white='\e[1;37m'
+yellow='\e[1;33m'
+
+clear
+apt-get install figlet
+                figlet Hacke7x
+        printf "\n"
+                figlet Tools
+echo -e $red "1) update && upgrade syatem"
+        printf "\n"
+echo -e $green "2) install zip && unzip"
+        printf "\n"
+echo -e $yellow "3) Destroyer-framework"
+        printf "\n"
+echo -e $blue "4) hammer"
+        printf "\n"
+echo -e $cyan "5) HK-Ddoss"
+        printf "\n"
+echo -e $purple "6) metasploit-framework"
+        printf "\n"
+echo -e $blue "7) Nmap"
+        printf "\n"
+echo -e $yellow "8) wget"
+        printf "\n"
+echo -e $red "9) nano"
+        printf "\n"
+echo -e $cyan "10) IP-tracer"
+printf "\n"
+echo -e $green "11) Tmx-FW"
+        printf "\n"
+echo -e $blue "12) sqlmap"
+        printf "\n"
+echo -e $green "13) RV-Scan"
+        printf "\n"
+echo -e $red "14) A-Rat"
+        printf "\n"
+echo -e $green "15) Cam-Hackers"
+        printf "\n"
+echo -e $cyan "16) Tool-X"
+        printf "\n"
+echo -e $yellow "17) MRKING"
+        printf "\n"
+echo -e $blue "18) Hemidall"
+        printf "\n"
+echo -e $red "19) weeman"
+        printf "\n"
+echo -e $yellow "20) Hunner"
+        printf "\n"
+echo -e $red "21) Amer"
+printf "\n"
+read -p "Inter option...> " teryage
+if [[ $teryage == "1" ]];
+
+   then
+apt-get update
+apt-get upgrade
+fi
+if [[ $teryage == "2" ]];
+   then
+apt-get install zip
+apt-get install unzip
+fi
+if [[ $teryage == "3" ]];
+   then
+git clone https://github.com/Cesar-Hack-Gr>
+fi
+if [[ $teryage == "4" ]];
+   then
+git clone https://github.com/cyweb/hammer
+fi
+if [[ $teryage == "5" ]];
+   then
+git clone https://github.com/HK-Hacker/HKd>
+fi
+if [[ $teryage == "6" ]];
+   then
+git clone https://github.com/rapid7/metasp>
+fi
+if [[ $teryage == "7" ]];
+    then
+apt-get install nmap
+fi
+if [[ $teryage == "8" ]];
+   then
+apt-get install wget
+fi
+if [[ $teryage == "9" ]];
+   then
+apt-get install nano
+fi
+if [[ $teryage == "10" ]];
+  then
+git clone https://github.com/rajkumardusad>
+fi
+if [[ $teryage == "11" ]];
+   then
+git clone https://github.com/MoMuilWH/TmX->
+fi
+if [[ $teryage == "12" ]];
+   then
+git clone https://github.com/sqlmapprojec
+fi
+if [[ $teryage == "13" ]];
+   then
+git clone https://github.com/RedVirus-Dev/>
+fi
+if [[ $teryage == "14" ]];
+   then
+git clone https://github.com/PlagueSecurit>
+fi
+if [[ $teryage == "15" ]];
+   then
+git clone https://github.com/AngelSecurity>
+fi
+if [[ $teryage == "16" ]];
+   then
+git clone https://github.com/rajkumardusad>
+fi
+if [[ $teryage == "17" ]];
+   then
+git clone https://github.com/king-hacking/>
+fi
+if [[ $teryage == "18" ]];
+   then
+git clone https://github.com/CR3DN3/Heimda>
+fi
+if [[ $teryage == "19" ]];
+   then
+git clone https://github.com/evait-securit>
+fi
+if [[ $teryage == "20" ]];
+then
+git clone https://github.com/b3-v3r/Hunner
+fi
+if [[ $teryage == "21" ]];
+   then
+git clone https://github.com/Amerlaceset/A>
+fi
